@@ -1,0 +1,29 @@
+[GrandIsland]
+latitude = 46.55934
+longitude = -86.68033
+brightness = 5.71
+
+[GrandMarais]
+latitude = 46.65905
+longitude = -86.17897
+brightness = 1.22
+
+[AuTrain]
+latitude = 46.43790
+longitude = -86.87836
+brightness = 10.7
+
+[Brockway]
+latitude = 47.46437
+longitude = -87.96909
+brightness = 2.06
+
+[Seney]
+latitude = 46.34467
+longitude = -86.11517
+brightness = 2.13
+
+[DeTour]
+latitude = 45.96201
+longitude = -84.03424
+brightness = 5.67
