@@ -1,0 +1,35 @@
+[[locations]]
+name = "Grand Island"
+latitude = 46.55934
+longitude = -86.68033
+brightness = 5.71
+
+[[locations]]
+name = "Grand Marais"
+latitude = 46.65905
+longitude = -86.17897
+brightness = 1.22
+
+[[locations]]
+name = "Au Train"
+latitude = 46.43790
+longitude = -86.87836
+brightness = 10.7
+
+[[locations]]
+name = "Brockway"
+latitude = 47.46
+longitude = -87.97
+brightness = 2.06
+
+[[locations]]
+name = "Seney"
+latitude = 46.34467
+longitude = -86.11517
+brightness = 2.13
+
+[[locations]]
+name = "DeTour"
+latitude = 45.96201
+longitude = -84.03424
+brightness = 5.67
