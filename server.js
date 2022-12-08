@@ -40,7 +40,6 @@ function fetch_data(socket) {
     let locations = Object.values(parsed["locations"]);
 
     locations.forEach(location => {
-
         let addressPostFix = API_KEY + "&q=" + location.latitude + "," + location.longitude + API_POSTFIX;
 
         let current = API_CURRENT + addressPostFix;
@@ -88,6 +87,7 @@ function fetch_data(socket) {
             .then(json => {
                 json["location"] = location;
                 socket.emit("astronomy", json);
+                console.log(json);
             });
     });
 }

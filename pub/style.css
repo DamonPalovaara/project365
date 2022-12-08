@@ -1,3 +1,8 @@
+@font-face {
+    font-family: 'fira-code';
+    src: url(fonts/FiraCode.ttf);
+}
+
 html,
 body {
     margin: 0 !important;
